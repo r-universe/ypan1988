@@ -1,0 +1,10 @@
+[
+  {
+    "package": "jmcm",
+    "oncran": true
+  },
+  {
+    "package": "roptim",
+    "oncran": true
+  }
+]
