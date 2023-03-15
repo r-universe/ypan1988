@@ -1,10 +1,10 @@
 [
   {
-    "package": "roptim",
+    "package": "jmcm",
     "oncran": true
   },
   {
-    "package": "jmcm",
+    "package": "roptim",
     "oncran": true
   }
 ]

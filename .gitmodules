@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "roptim"]
-	path = roptim
-	url = https://github.com/ypan1988/roptim
-	shallow = true
-	registered = true
 [submodule "jmcm"]
 	path = jmcm
 	url = https://github.com/ypan1988/jmcm
+	shallow = true
+	registered = true
+[submodule "roptim"]
+	path = roptim
+	url = https://github.com/ypan1988/roptim
 	shallow = true
 	registered = true
