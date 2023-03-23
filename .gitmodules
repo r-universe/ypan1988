@@ -8,6 +8,11 @@
 	url = https://github.com/ypan1988/jmcm
 	shallow = true
 	registered = true
+[submodule "rminqa"]
+	path = rminqa
+	url = https://github.com/cran/rminqa
+	shallow = true
+	registered = true
 [submodule "roptim"]
 	path = roptim
 	url = https://github.com/ypan1988/roptim
