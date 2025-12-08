@@ -7,7 +7,7 @@
 	url = https://github.com/ypan1988/jmcm
 [submodule "rminqa"]
 	path = rminqa
-	url = https://github.com/cran/rminqa
+	url = https://github.com/ypan1988/rminqa
 [submodule "roptim"]
 	path = roptim
 	url = https://github.com/ypan1988/roptim
